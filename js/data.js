@@ -9,11 +9,11 @@ const destinations = [
       shortDescription: "Salah satu pantai paling terkenal di Bali dengan pemandangan matahari terbenam yang spektakuler.",
       description: "Pantai Kuta adalah salah satu pantai paling terkenal di Bali, dan merupakan tujuan wisata paling populer di Indonesia. Terkenal dengan pasir putih, ombak yang sempurna untuk berselancar, dan matahari terbenam yang spektakuler, Pantai Kuta menawarkan pengalaman liburan yang tak terlupakan. Area ini juga dikelilingi oleh berbagai restoran, bar, dan toko yang menjadikannya tempat yang sempurna untuk menikmati kehidupan malam Bali.",
       rating: 4.5,
-      image: "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pantai_Kuta_sejuta_cinta.jpg/1024px-Pantai_Kuta_sejuta_cinta.jpg",
       images: [
-        "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pantai_Kuta_sejuta_cinta.jpg/1024px-Pantai_Kuta_sejuta_cinta.jpg",
         "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1604868189265-219ba7465e49?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "https://www.vrmtrans.com/uploads/1/1/8/8/118807531/anyconv-com-pantai-kuta-169_orig.webp"
       ],
       features: [
         "Pantai pasir putih",
@@ -41,8 +41,8 @@ const destinations = [
       image: "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       images: [
         "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1584810359583-96fc9e700523?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-        "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "https://asset.kompas.com/crops/Yz_5aWR_v6WhZMGq8cICG9NJMSA=/1x0:1024x682/750x500/data/photo/2020/05/11/5eb950a1c8fb3.jpeg",
+        "https://asset.kompas.com/crops/CZcYGm36VHlIiIhRqs0_0Htasxw=/34x0:1255x814/750x500/data/photo/2020/03/19/5e7378e243dbb.jpeg"
       ],
       features: [
         "Situs Warisan Dunia UNESCO",
@@ -241,9 +241,9 @@ const destinations = [
       shortDescription: "Gunung berapi tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl..",
       description: "Gunung Rinjani terletak di Pulau Lombok, Nusa Tenggara Barat, dan merupakan gunung berapi tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl. Tempat ini terkenal dengan pemandangan indah serta jalur pendakian yang menantang. Salah satu daya tarik utamanya adalah Danau Segara Anak, yang berada di kawah gunung dan sering digunakan sebagai tempat beristirahat oleh para pendaki. Selain itu, terdapat pemandian air panas alami yang dipercaya memiliki manfaat bagi kesehatan. Fasilitas yang tersedia di kawasan ini meliputi basecamp pendakian, pos peristirahatan, camping ground, serta jasa porter dan pemandu untuk membantu pendaki selama perjalanan.",
       rating: 4.8,
-      image: "images/rinjani-1.webp",
+      image: "images/rinjani-1.jpg",
       images: [
-        "images/rinjani-1.webp",
+        "images/rinjani-1.jpg",
         "images/rinjani-2.jpg",
         "images/rinjani-3.jpg"
       ],
