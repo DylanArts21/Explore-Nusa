@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Destinasi Wisata Indonesia - NatureFind Hub</title>
+    <meta name="description" content="Jelajahi berbagai destinasi wisata menarik di seluruh Indonesia" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container">
+        <div class="navbar-content">
+          <a href="index.html" class="navbar-logo">
+            <h1>NatureFind</h1>
+          </a>
+          <nav class="nav-menu">
+            <ul class="nav-links">
+              <li><a href="index.html" class="nav-link">Beranda</a></li>
+              <li><a href="destinations.html" class="nav-link active">Destinasi</a></li>
+              <li><a href="#" class="nav-link">Tentang Kami</a></li>
+              <li><a href="#" class="nav-link">Kontak</a></li>
+            </ul>
+          </nav>
+          <button class="mobile-menu-btn" aria-label="Toggle menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- Destinations Hero -->
+      <section class="destinations-hero">
+        <div class="container">
+          <h1 class="section-title">Jelajahi Destinasi di Indonesia</h1>
+          <p class="section-subtitle">
+            Temukan keindahan Indonesia melalui koleksi destinasi wisata terbaik di seluruh nusantara
+          </p>
+
+          <!-- Search Bar -->
+          <div class="search-container">
+            <div class="search-bar">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="search-icon">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <input type="text" id="search-input" placeholder="Cari destinasi, lokasi, atau aktivitas..." />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Categories Filter -->
+      <section class="categories-filter">
+        <div class="container">
+          <div class="filter-container" id="categories">
+            <button class="category-btn active" data-category="all">Semua</button>
+            <button class="category-btn" data-category="beach">Pantai</button>
+            <button class="category-btn" data-category="mountain">Gunung</button>
+            <button class="category-btn" data-category="culture">Budaya</button>
+            <button class="category-btn" data-category="adventure">Petualangan</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Destinations Grid -->
+      <section class="destinations-section">
+        <div class="container">
+          <div class="destinations-grid" id="destinations-container">
+            <!-- Destinations will be loaded here via JavaScript -->
+          </div>
+          <div id="no-results" class="no-results hidden">
+            <h3>Tidak ada destinasi yang ditemukan</h3>
+            <p>Coba sesuaikan pencarian atau filter Anda untuk menemukan apa yang Anda cari.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-brand">
+            <h2>NatureFind</h2>
+            <p>Jelajahi keindahan Indonesia bersama kami.</p>
+          </div>
+          
+          <div class="footer-links">
+            <div class="footer-links-group">
+              <h3>Navigasi</h3>
+              <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="destinations.html">Destinasi</a></li>
+                <li><a href="#">Tentang Kami</a></li>
+                <li><a href="#">Kontak</a></li>
+              </ul>
+            </div>
+            
+            <div class="footer-links-group">
+              <h3>Kategori</h3>
+              <ul>
+                <li><a href="destinations.html?category=beach">Pantai</a></li>
+                <li><a href="destinations.html?category=mountain">Gunung</a></li>
+                <li><a href="destinations.html?category=culture">Budaya</a></li>
+                <li><a href="destinations.html?category=adventure">Petualangan</a></li>
+              </ul>
+            </div>
+            
+            <div class="footer-links-group">
+              <h3>Hubungi Kami</h3>
+              <ul>
+                <li>info@NatureFind.com</li>
+                <li>+62 812 3456 7890</li>
+                <li>Jl. Wisata Indah No. 123, Jakarta</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        
+        <div class="footer-bottom">
+          <p>&copy; 2023 NatureFind Hub. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
