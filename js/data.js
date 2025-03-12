@@ -261,6 +261,35 @@ const destinations = [
         "Juli - Agustus (Langit paling cerah)",
         "Mei - September (Cuaca terbaik untuk pendakian)"
       ]
+    },
+    {
+      id: 10,
+      name: "Kawah Putih",
+      location: "Bandung",
+      category: "pertualangan",
+      shortDescription: "Gunung berapi tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl..",
+      description: "Gunung Rinjani terletak di Pulau Lombok, Nusa Tenggara Barat, dan merupakan gunung berapi tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl. Tempat ini terkenal dengan pemandangan indah serta jalur pendakian yang menantang. Salah satu daya tarik utamanya adalah Danau Segara Anak, yang berada di kawah gunung dan sering digunakan sebagai tempat beristirahat oleh para pendaki. Selain itu, terdapat pemandian air panas alami yang dipercaya memiliki manfaat bagi kesehatan. Fasilitas yang tersedia di kawasan ini meliputi basecamp pendakian, pos peristirahatan, camping ground, serta jasa porter dan pemandu untuk membantu pendaki selama perjalanan.",
+      rating: 4.8,
+      image: "images/kawah-putih-1.jpg",
+      images: [
+        "images/rinjani-1.webp",
+        "images/rinjani-2.jpg",
+        "images/rinjani-3.jpg"
+      ],
+      features: [
+        "Fenomena api biru",
+        "Danau kawah berwarna turquoise",
+        "Pertambangan belerang tradisional",
+        "Pemandangan matahari terbit",
+        "Pendakian malam hari",
+        "Hutan tropis di sekitar kawah"
+      ],
+      priceRange: "Rp 150.000 - Rp 1.000.000 (tergantung paket)",
+      popularTimes: [
+        "April - Oktober (Musim Kemarau)",
+        "Juli - Agustus (Langit paling cerah)",
+        "Mei - September (Cuaca terbaik untuk pendakian)"
+      ]
     }
   ];
   
