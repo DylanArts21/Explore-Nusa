@@ -213,6 +213,7 @@
     background: transparent;
     border: none;
     cursor: pointer;
+    transition: transform 0.3s ease-in-out;
   }
   
   .mobile-menu-btn span {
@@ -221,7 +222,8 @@
     background-color: var(--foreground);
     transition: all 0.3s ease;
   }
-  
+
+
   @media (max-width: 768px) {
     .mobile-menu-btn {
       display: flex;
@@ -241,6 +243,7 @@
   
     .nav-menu.active {
       right: 0;
+      height: auto;
     }
   
     .nav-links {
