@@ -236,7 +236,7 @@ const destinations = [
     {
       id: 9,
       name: "Gunung Rinjani",
-      location: "Nusa Tenggar Barat",
+      location: "Nusa Tenggara Barat",
       category: "mountain",
       shortDescription: "Gunung berapi tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl..",
       description: "Gunung Rinjani terletak di Pulau Lombok, Nusa Tenggara Barat, dan merupakan gunung berapi tertinggi kedua di Indonesia dengan ketinggian 3.726 mdpl. Tempat ini terkenal dengan pemandangan indah serta jalur pendakian yang menantang. Salah satu daya tarik utamanya adalah Danau Segara Anak, yang berada di kawah gunung dan sering digunakan sebagai tempat beristirahat oleh para pendaki. Selain itu, terdapat pemandian air panas alami yang dipercaya memiliki manfaat bagi kesehatan. Fasilitas yang tersedia di kawasan ini meliputi basecamp pendakian, pos peristirahatan, camping ground, serta jasa porter dan pemandu untuk membantu pendaki selama perjalanan.",
