@@ -96,11 +96,11 @@ const destinations = [
       shortDescription: "Rumah bagi komodo, reptil terbesar di dunia, dan taman nasional yang merupakan Situs Warisan Dunia UNESCO.",
       description: "Pulau Komodo adalah bagian dari Taman Nasional Komodo, rumah bagi komodo atau biawak komodo, reptil terbesar di dunia. Taman nasional ini mencakup tiga pulau utama: Komodo, Rinca, dan Padar, serta banyak pulau kecil lainnya. Selain dapat melihat komodo di habitat aslinya, pengunjung juga dapat menikmati pemandangan alam yang spektakuler, pantai dengan pasir merah muda yang unik, dan pengalaman menyelam yang luar biasa dengan keanekaragaman hayati laut yang melimpah.",
       rating: 4.9,
-      image: "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      image: "images/komodo-1.jpg",
       images: [
-        "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1543158266-0066955047b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1582189933984-3c8fd4eee58e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+        "images/komodo-1.jpg",
+        "images/komodo-3.jpeg",
+        "images/komodo-2.jpeg"
       ],
       features: [
         "Komodo di habitat asli",

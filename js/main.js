@@ -7,16 +7,14 @@ document.addEventListener('DOMContentLoaded', function() {
     if (mobileMenuBtn) {
       mobileMenuBtn.addEventListener('click', function() {
         navMenu.classList.toggle('active');
+        this.classList.toggle('active');
         if (navMenu.classList.contains('active')) {
           mobileMenuBtn.style.transform = 'rotate(-90deg)';
         } else {
           mobileMenuBtn.style.transform = 'rotate(0deg)';
         }
-        this.classList.toggle('active');
       });
     }
-    
-
   
     // Featured destinations on homepage
     const featuredDestinationsContainer = document.getElementById('featured-destinations');
