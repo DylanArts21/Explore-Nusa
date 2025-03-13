@@ -235,6 +235,7 @@
       width: 70%;
       height: auto;
       background-color: var(--background);
+      border: 1px solid black;
       transition: right 0.3s ease;
       box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
       padding: 2rem;
