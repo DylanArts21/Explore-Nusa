@@ -125,11 +125,11 @@ const destinations = [
       shortDescription: "Surga bagi penyelam dengan keanekaragaman hayati laut terkaya di dunia dan pemandangan pulau-pulau karst yang indah.",
       description: "Raja Ampat adalah kepulauan yang terdiri dari lebih dari 1.500 pulau kecil, atol, dan laguna di Papua Barat. Wilayah ini terkenal dengan keanekaragaman hayati laut yang luar biasa, menjadikannya surga bagi penyelam dan snorkeler. Dengan lebih dari 1.000 spesies ikan, 700 jenis moluska, dan 75% spesies karang dunia, Raja Ampat menawarkan pengalaman bawah laut yang tak tertandingi. Selain itu, pemandangan pulau-pulau karst yang hijau menjulang dari laut biru kristal menciptakan lanskap yang memukau.",
       rating: 4.9,
-      image: "https://images.unsplash.com/photo-1516748388010-174a1dbc8189?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Raja_Ampat%2C_Mutiara_Indah_di_Timur_Indonesia.jpg/1024px-Raja_Ampat%2C_Mutiara_Indah_di_Timur_Indonesia.jpg",
       images: [
-        "https://images.unsplash.com/photo-1516748388010-174a1dbc8189?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1516748927093-a4094b437b1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1559401507-8dfef08702ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Raja_Ampat%2C_Mutiara_Indah_di_Timur_Indonesia.jpg/1024px-Raja_Ampat%2C_Mutiara_Indah_di_Timur_Indonesia.jpg",
+        "images/raja-ampat-1.jpg",
+        "images/raja-ampat-2.jpg"
       ],
       features: [
         "Snorkeling dan diving kelas dunia",
@@ -154,11 +154,11 @@ const destinations = [
       shortDescription: "Danau vulkanik terbesar di dunia dengan pulau Samosir di tengahnya yang kaya akan budaya Batak.",
       description: "Danau Toba adalah danau vulkanik terbesar di dunia yang terbentuk dari letusan supervolcano sekitar 75.000 tahun lalu. Di tengah danau terdapat Pulau Samosir, sebuah pulau yang kaya akan budaya Batak dan pemandangan alam yang indah. Pengunjung dapat menikmati keindahan danau yang dikelilingi perbukitan hijau, menjelajahi desa-desa tradisional Batak, melihat rumah adat tradisional, dan mempelajari kekayaan budaya lokal. Air danau yang jernih juga memungkinkan berbagai aktivitas air seperti berenang dan berkano.",
       rating: 4.6,
-      image: "https://images.unsplash.com/photo-1605108156202-d3470e9e8e1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      image: "images/danau-toba-1.jpg",
       images: [
-        "https://images.unsplash.com/photo-1605108156202-d3470e9e8e1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1592863580198-2c6c462d1857?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1596187088695-56974285a9e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "images/danau-toba-1.jpg",
+        "images/danau-toba-2.jpg",
+        "images/danau-toba-3.jpg"
       ],
       features: [
         "Danau vulkanik terbesar di dunia",
@@ -183,11 +183,11 @@ const destinations = [
       shortDescription: "Surga bawah laut dengan terumbu karang yang spektakuler dan lebih dari 390 spesies terumbu karang.",
       description: "Taman Nasional Bunaken terletak di Sulawesi Utara dan merupakan salah satu tujuan menyelam terbaik di dunia. Taman laut ini mencakup lima pulau: Bunaken, Manado Tua, Mantehage, Nain, dan Siladen. Dengan kedalaman laut yang mencapai 1.566 meter, Bunaken memiliki ekosistem laut yang sangat beragam, termasuk terumbu karang, padang lamun, hutan mangrove, perairan dalam, dan pesisir. Terdapat lebih dari 390 spesies terumbu karang dan ribuan spesies ikan, menjadikannya surga bagi penyelam dan snorkeler.",
       rating: 4.8,
-      image: "https://images.unsplash.com/photo-1603329470059-d534e363fc5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      image: "images/Taman-Nasional-Bunaken-1.jpg",
       images: [
-        "https://images.unsplash.com/photo-1603329470059-d534e363fc5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "https://images.unsplash.com/photo-1592148161938-0b3fb19667d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+        "images/Taman-Nasional-Bunaken-4.jpg",
+        "images/Taman-Nasional-Bunaken-2.jpg",
+        "images/Taman-Nasional-Bunaken-3.jpg"
       ],
       features: [
         "Diving dan snorkeling kelas dunia",
@@ -248,12 +248,10 @@ const destinations = [
         "images/rinjani-3.jpg"
       ],
       features: [
-        "Fenomena api biru",
-        "Danau kawah berwarna turquoise",
-        "Pertambangan belerang tradisional",
-        "Pemandangan matahari terbit",
-        "Pendakian malam hari",
-        "Hutan tropis di sekitar kawah"
+        "Puncak Gunung Rinjani",
+        "Cagar Biosfer baru oleh UNESCO pada tahun 2018",
+        "Jalur Sembalun, jalur melewati hamparan padang savana yang luas",
+
       ],
       priceRange: "Rp 150.000 - Rp 1.000.000 (tergantung paket)",
       popularTimes: [
